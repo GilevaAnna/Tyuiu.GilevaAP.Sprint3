@@ -4,4 +4,9 @@
     <Project Path="Tyuiu.GilevaAP.Sprint3.Task0.V3.Test/Tyuiu.GilevaAP.Sprint3.Task0.V3.Test.csproj" />
     <Project Path="Tyuiu.GilevaAP.Sprint3.Task0.V3/Tyuiu.GilevaAP.Sprint3.Task0.V3.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.GilevaAP.Sprint3.Task1.V30.Lib/Tyuiu.GilevaAP.Sprint3.Task1.V30.Lib.csproj" Id="ec2e3713-1968-4fa9-bad5-c1a5a34ded4c" />
+    <Project Path="Tyuiu.GilevaAP.Sprint3.Task1.V30.Test/Tyuiu.GilevaAP.Sprint3.Task1.V30.Test.csproj" Id="459f3f6f-581d-4c50-8ee2-2083b71cb9ae" />
+    <Project Path="Tyuiu.GilevaAP.Sprint3.Task1.V30/Tyuiu.GilevaAP.Sprint3.Task1.V30.csproj" Id="1ba0fc06-beb8-4bf0-9eac-2b36eda4815e" />
+  </Folder>
 </Solution>
