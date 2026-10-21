@@ -5,7 +5,7 @@ namespace Tyuiu.GilevaAP.Sprint3.Task0.V3.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void Example()
+        public void Exampl()
         {
             DataService ds = new DataService();
 
@@ -17,3 +17,4 @@ namespace Tyuiu.GilevaAP.Sprint3.Task0.V3.Test
         }
     }
 }
+
